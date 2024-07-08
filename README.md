@@ -1,7 +1,3 @@
-### Project Description for GitHub
-
----
-
 # Boolean Expression and Arithmetic Expression Parser
 
 This project implements a parser for boolean and arithmetic expressions. It is designed to evaluate expressions and solve a set of equations and inequalities using the Z3 theorem prover.
